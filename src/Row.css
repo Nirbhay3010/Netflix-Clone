@@ -1,3 +1,7 @@
+.row{
+    margin-left: 20px;
+}
+
 .row__poster{
     object-fit: contain;
     width:100%;
